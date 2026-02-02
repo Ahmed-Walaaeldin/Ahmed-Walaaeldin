@@ -27,11 +27,26 @@ to EEG-based BCIs and large-scale data analysis platforms.
 ---
 
 ### 🧠 Brain-Computer Interface (BCI)
-- **SSVEP & Motor Imagery EEG Classification**  
-  - Built **two deep-learning pipelines**
-  - Achieved **higher F1 than benchmark**
-  - Heavy focus on **signal preprocessing & noise robustness**
 
+- **SSVEP EEG Classification**
+  - Built deep learning pipeline for multi-class SSVEP classification
+  - Focused on frequency-domain features and temporal modeling
+  - Achieved **higher F1 score than benchmark**
+  - Emphasized robustness to noise and subject variability
+
+- **Motor Imagery (MI) EEG Classification**
+  - Designed end-to-end deep learning pipeline for MI tasks
+  - Applied advanced preprocessing and signal normalization
+  - Tuned architectures for low-SNR EEG signals
+  - Evaluated across multiple subjects and sessions
+
+### 🎵 Applied Deep Learning (Audio)
+
+- **Splitify – Music Source Separation**
+  - Built deep learning pipeline for music source separation
+  - Worked on **vocals / accompaniment separation**
+  - Explored model fine-tuning and post-processing improvements
+  - Focused on audio quality, artifact reduction, and usability for musicians
 ---
 
 ### 🏭 Applied Data & ML Systems
