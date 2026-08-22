@@ -4,7 +4,7 @@
 I build **AI systems that work in the real world**, from surveillance & tracking pipelines  
 to EEG-based BCIs and large-scale data analysis platforms.
 
-- 🎓 Alexandria University — GPA: **3.55 / 4.0**
+- 🎓 Alexandria University — GPA: **3.58 / 4.0**
 - 🧠 Strong focus on **Computer Vision, Deep Learning, and ML Systems**
 - 🏆 National AI competition finalist & winner
 
